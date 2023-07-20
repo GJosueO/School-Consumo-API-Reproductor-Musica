@@ -1,0 +1,185 @@
+*{
+	border: 0;
+	text-align: center;
+	
+	
+
+
+}
+header{
+	width: 100%;
+}
+nav{
+	text-align: center;
+	padding: 20px;
+	background-color: #000000FF;
+
+
+}
+nav ul{
+	text-align: center;	
+	list-style:none;
+	display: inline;
+	text-align: center;
+	background-color: #111111FF;
+	text-decoration: none;
+
+padding: 20px;
+
+}
+li{
+	display: inline;
+	text-align: center;
+	
+	text-decoration: none;
+
+
+
+}
+h1{
+	text-decoration: none;
+	color: #E0E0E0FF;
+	font-size: 25px;
+	color: #383838FF
+
+}
+ h1 span{
+ 	font-size: 40px;
+ 	padding-right: 10px;
+
+
+ }
+.home{
+
+	
+	position: fixed;
+	top:60px;
+
+	margin: 0;
+	padding: 5px;
+	font-family: 'Zilla Slab Highlight', cursive;
+
+	font-size: 50px;
+	background-color: #000000FF;
+}
+.menu{
+	
+
+	color: #EDEDEDFF;
+	padding:20px;
+	font-size: 15px;
+	font-family: 'Lobster', cursive;
+	font-family: 'Quicksand', sans-serif;
+
+}
+.bus{
+	padding:0px;
+
+
+}
+.buscar{
+	padding: 20px;
+	
+	
+}
+
+
+h2 {
+	text-align: right;
+	background-color: #000000FF;
+	color: #EDEDEDFF ;
+	font-family: 'Lobster', cursive;
+}
+input{
+	margin-bottom: 5px;
+}
+img{
+	width: 200px;
+	height: 200px;
+	
+
+}
+
+ h1{
+ 	font-family: 'Zilla Slab Highlight', cursive;
+ 	font-size: 25px;
+ }
+section .artista{
+	border-radius: 100%;
+	width: 100px;
+	height: 170px;
+	margin: 20px;
+	text-align: center;
+}
+.artistas:hover{
+	
+	background-color: #E0E0E0FF;
+	
+	
+}
+h4{
+	background-color: #000000FF;
+	text-align: right;
+	padding: 0;
+	margin: 0;
+}
+#buscar{
+	margin-right: 70px;
+	margin-bottom: 10px;
+
+}
+footer{
+
+	background-color: #000000FF;
+	clear: left;
+	
+	padding: 30px;
+	margin: 30px;
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+h6{
+	font-size: 20px;
+	color: #E0E0E0FF;
+	font-family: 'Quicksand', sans-serif;
+}
+h5{
+	color: #999999FF;
+}
+
+article{
+	float: right;
+	width: 100%;
+	clear: button;
+}
+
+
+p{
+	padding: 0px;
+	margin: 50px;
+}
+audio{
+		background-color: #565145FF;
+}
+h5{
+	padding: 5px;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+}
+h3{
+	padding: 5px;
+	color:#BABABAFF ;
+
+	font-size: 25px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h6{
+	padding: 5px;
+	color: #BABABAFF;
+
+	font-size: 20px;
+	font-family: 'Quicksand', sans-serif;
+}
